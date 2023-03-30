@@ -9,6 +9,9 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 # faker generates data
 gem 'faker', '~> 3.1', '>= 3.1.1'
 
+#allows you to generate your JSON in an object-oriented and convention-driven manner.
+gem 'active_model_serializers', '~> 0.10.13'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
